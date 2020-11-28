@@ -1,0 +1,1 @@
+web: gunicorn<get_flare.py>:<main>
