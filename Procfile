@@ -1,1 +1,1 @@
-web: gunicorn<get_flare.py>:<main>
+web: gunicorn<get_flare.py>:<home>
