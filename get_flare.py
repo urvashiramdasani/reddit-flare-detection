@@ -13,7 +13,8 @@ import joblib
 
 # load the pipeline object
 
-pipeline = pickle.load("model.pkl")
+model = open("model.pkl", "rb")
+model = pickle.load(model)
 
 # function to get results for a particular text query
 
