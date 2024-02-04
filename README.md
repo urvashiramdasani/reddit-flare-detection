@@ -6,6 +6,3 @@ This notebook is maintained as a part of CODETROPHS Internship task. It builds a
 1. Data Collection - Using web scraping of reddit.com.
 2. Exploratory Data Analysis - Extracting useful information from the collected data.
 3. Build a Flare Detector - Building various models using Natural Language Processing (NLP) and selecting the best among them.
-
-## Developing a web application
-This model has been deployed on flask framework. This flask app is then deployed on heroku https://codetrophs-reddit.herokuapp.com/. 
